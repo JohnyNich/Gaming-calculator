@@ -1,1 +1,4 @@
-The following is the structure for text docs in the robocraft folder.
+The following is the structure for text docs in the robocraft folder:
+First line: Name
+Second line: Damage
+Third line: Energy required.
