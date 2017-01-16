@@ -1,6 +1,6 @@
 The following is the structure for text docs in the robocraft folder:
 First line: Name.
-Second line: Damage.
-Third line: Single gun fire rate per second.
-Fourth line: Energy required.
-Fifth line: Health.
+Second line: Health.
+Third line: Energy required.
+Fourth line: Damage per hit.
+Fifth line: Single gun fire rate per second.
